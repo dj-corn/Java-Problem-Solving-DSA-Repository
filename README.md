@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dj-corn/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dj-corn/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/dj-corn/Java-Problem-Solving-DSA-Repository/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dj-corn/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-transpose-matrix](https://github.com/dj-corn/DSA/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/dj-corn/Java-Problem-Solving-DSA-Repository/tree/master/0989-add-to-array-form-of-integer) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/dj-corn/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dj-corn/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/dj-corn/Java-Problem-Solving-DSA-Repository/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
