@@ -4,14 +4,11 @@ class Solution {
         int n = num.length-1;
         for(int i=n; i>=0; i--){
             k += num[i];
-            int a = k%10;
-            System.out.print(a);
-            ans.add(0,a);
+            ans.add(0,k%10);
             k /= 10;
         }
         while(k>0){
-            int a = k%10;
-            ans.add(0,a);
+            ans.add(0,k%10);
             k /= 10;
         }
         return ans;
